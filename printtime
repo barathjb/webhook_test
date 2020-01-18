@@ -1,2 +1,3 @@
 echo "Today's date is"
 echo `date`
+echo "Well thats it!"
